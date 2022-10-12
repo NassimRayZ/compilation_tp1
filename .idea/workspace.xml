@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f165cbf1-52ba-40f6-aa85-934f1decac40" name="Changes" comment="Done compilation_tp1, finished the lab without any error.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f165cbf1-52ba-40f6-aa85-934f1decac40" name="Changes" comment="Fix typo, &quot;caracctère&quot; =&gt; &quot;caractère&quot;." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "preferences.editor"
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RunManager">
@@ -74,6 +72,7 @@
       <workItem from="1665591495014" duration="262000" />
       <workItem from="1665591765605" duration="149000" />
       <workItem from="1665591923707" duration="11909000" />
+      <workItem from="1665604664778" duration="827000" />
     </task>
     <task id="LOCAL-00001" summary="Done compilation_tp1, finished the lab without any error.">
       <created>1665603029469</created>
@@ -82,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665603029470</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fix typo, &quot;caracctère&quot; =&gt; &quot;caractère&quot;.">
+      <created>1665604888763</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665604888763</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,7 +107,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Done compilation_tp1, finished the lab without any error." />
-    <option name="LAST_COMMIT_MESSAGE" value="Done compilation_tp1, finished the lab without any error." />
+    <MESSAGE value="Fix typo, &quot;caracctère&quot; =&gt; &quot;caractère&quot;." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix typo, &quot;caracctère&quot; =&gt; &quot;caractère&quot;." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

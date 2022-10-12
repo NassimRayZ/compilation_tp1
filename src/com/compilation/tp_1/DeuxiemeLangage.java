@@ -24,7 +24,6 @@ public class DeuxiemeLangage {
             throw langage.error("Le mot n'appartient pas au langage");
 
         } catch (LangageError error){
-            System.out.println(error.getMessage());
         }
     }
     private boolean init(){

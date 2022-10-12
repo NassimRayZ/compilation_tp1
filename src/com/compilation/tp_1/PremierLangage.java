@@ -23,7 +23,6 @@ public class PremierLangage {
             throw langage.error("Le mot n'appartient pas au langage");
 
         } catch (LangageError error){
-            System.out.println(error.getMessage());
         }
     }
     private boolean pair_pair() {
