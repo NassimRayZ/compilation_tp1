@@ -8,7 +8,7 @@ public class Langage {
         this.source = source;
     }
     boolean match(char expected) throws LangageError{
-        if (!is_allowed()) throw error("le caracctère '"+peek()+"' n'est pas autorisé");
+        if (!is_allowed()) throw error("le caractère '"+peek()+"' n'est pas autorisé");
         if (is_at_end()) return false;
         if (source.charAt(current) != expected) return false;
         current++;
