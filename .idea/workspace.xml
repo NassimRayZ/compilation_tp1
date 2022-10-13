@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f165cbf1-52ba-40f6-aa85-934f1decac40" name="Changes" comment="Fix typo, &quot;caracctère&quot; =&gt; &quot;caractère&quot;." />
+    <list default="true" id="f165cbf1-52ba-40f6-aa85-934f1decac40" name="Changes" comment="Edit DeuxiemeLangage.java, PremierLangage.java, removed useless error printing inside catch block">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,14 +34,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="TpCompilation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.compilation.tp_1.TpCompilation" />
@@ -72,7 +74,8 @@
       <workItem from="1665591495014" duration="262000" />
       <workItem from="1665591765605" duration="149000" />
       <workItem from="1665591923707" duration="11909000" />
-      <workItem from="1665604664778" duration="827000" />
+      <workItem from="1665604664778" duration="2240000" />
+      <workItem from="1665645055860" duration="82000" />
     </task>
     <task id="LOCAL-00001" summary="Done compilation_tp1, finished the lab without any error.">
       <created>1665603029469</created>
@@ -88,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665604888763</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Edit DeuxiemeLangage.java, PremierLangage.java, removed useless error printing inside catch block">
+      <created>1665606148677</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665606148677</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,7 +118,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Done compilation_tp1, finished the lab without any error." />
     <MESSAGE value="Fix typo, &quot;caracctère&quot; =&gt; &quot;caractère&quot;." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix typo, &quot;caracctère&quot; =&gt; &quot;caractère&quot;." />
+    <MESSAGE value="Edit DeuxiemeLangage.java, PremierLangage.java, removed useless error printing inside catch block" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edit DeuxiemeLangage.java, PremierLangage.java, removed useless error printing inside catch block" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

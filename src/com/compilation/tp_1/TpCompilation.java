@@ -7,7 +7,11 @@ import java.util.Scanner;
 
 public class TpCompilation {
     public static void main(String[] args) throws IOException {
-        run_prompt();
+        try {
+            run_prompt();
+        }catch (IOException error){
+            System.out.println(error.getMessage());
+        }
     }
 
     private static void run_prompt() throws IOException {
